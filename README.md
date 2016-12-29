@@ -47,9 +47,14 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 - [Itsy Bitsy Data Structures - A tutorial by James Kyle ](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 - [Lenses In Pictures - A blog posy by Aditya Bhargava](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
 
-## Interface
+## History/Future Of Computer
 
 - [The Future of Programming - A talk by Bret Victor](https://vimeo.com/71278954)
+- [Systems Past: the only 8 software innovations we actually use - A article by David A. Dalrymple](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
+- [Why Hypercard Was So F*****g Great - A talk by Uli Kuster](https://vimeo.com/95380430)
+
+## Interface
+
 - [What Makes Software Good? - A blog post by Mike Bostock](https://medium.com/@mbostock/what-makes-software-good-943557f8a488#.j9geew4tu)
 - [The Expression Problem and its solutions - A blog post by Eli Bendersky](http://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/)
 
