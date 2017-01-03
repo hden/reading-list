@@ -61,6 +61,7 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 ## Leadership and Equity
 
 - [What kind of jobs do the software engineers who earn $500K a year do? - A blog post by Amin Ariana](http://www.aminariana.com/essays/million-dollar-handcuffs)
+- [Habits of highly mathematical people - an article by Jeremy Kun](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.2mv3hgfjc)
 
 ## Minimalism
 
