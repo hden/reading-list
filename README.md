@@ -23,6 +23,8 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 
 - [Transducers - A talk by Rich Hickey](https://www.youtube.com/watch?v=6mTbuzafcII)
 - [Understanding Transducers in JavaScript - A blog posy by Roman Liutikov](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.8m4wlmtp6)
+- [Tidy Data - A paper by Hadley Wickham](https://www.jstatsoft.org/article/view/v059i10)
+  - [【翻訳】整然データ](http://id.fnshr.info/2017/01/09/trans-tidy-data/)
 
 ## Compiler
 
