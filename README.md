@@ -6,6 +6,12 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 - [How Not To Sort By Average Rating - A blog post by Evan Miller](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 - [Bayesian Average Ratings - A blog post by Evan Miller](http://www.evanmiller.org/bayesian-average-ratings.html)
 
+## Architecture
+
+- [How Do Committees Invent? - a paper by Melvin Conway](http://www.melconway.com/Home/Conways_Law.html)
+
+> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. -- Conway's Law.
+
 ## Automation
 
 - [Why Use Make - A blog post by Mike Bostock](https://bost.ocks.org/mike/make/)
@@ -74,6 +80,7 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 
 - [Simple Made Easy - A talk by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012)
 - [Hammock Driven Development - A talk by Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [Teach Yourself Programming in Ten Years - An essay by Peter Norvig](http://norvig.com/21-days.html)
 
 ## Software Licensing
 
