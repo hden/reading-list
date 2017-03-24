@@ -12,6 +12,9 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. -- Conway's Law.
 
+- [Hints for Computer System Design - a paper by Butler Lampson](https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/)
+- [Updated Lampson's Hints for Computer Systems Design - a talk by Butler Lampson](http://www.allthingsdistributed.com/2013/12/updated-hints.html)
+
 ## Automation
 
 - [Why Use Make - A blog post by Mike Bostock](https://bost.ocks.org/mike/make/)
@@ -70,6 +73,9 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 
 - [What kind of jobs do the software engineers who earn $500K a year do? - A blog post by Amin Ariana](http://www.aminariana.com/essays/million-dollar-handcuffs)
 - [Habits of highly mathematical people - an article by Jeremy Kun](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.2mv3hgfjc)
+- [Wiio's laws](https://www.cs.tut.fi/~jkorpela/wiio.html)
+
+> Communication usually fails, except by accident
 
 ## Minimalism
 
