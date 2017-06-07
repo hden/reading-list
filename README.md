@@ -14,6 +14,7 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 
 - [Hints for Computer System Design - a paper by Butler Lampson](https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/)
 - [Updated Lampson's Hints for Computer Systems Design - a talk by Butler Lampson](http://www.allthingsdistributed.com/2013/12/updated-hints.html)
+- [The LMAX Architecture / Mechanical Sympathy - a blog post by Martin Fowler](https://martinfowler.com/articles/lmax.html#QueuesAndTheirLackOfMechanicalSympathy)
 
 ## Automation
 
