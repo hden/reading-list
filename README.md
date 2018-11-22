@@ -53,6 +53,7 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 - [Transactions: myths, surprises and opportunities - A blog post by Martin Kleppmann ](https://martin.kleppmann.com/2015/09/26/transactions-at-strange-loop.html)
 - [Deconstructing the Database - A talk by Rich Hickey](https://www.youtube.com/watch?v=Cym4TZwTCNU)
 - [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)
+- [Aether: A Scalable Approach to Logging](http://www.vldb.org/pvldb/vldb2010/papers/R61.pdf)
 
 ## Data Structure
 
