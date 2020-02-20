@@ -115,3 +115,4 @@ Mostly focused on database, immutable record, index, view, cache, and distribute
 - [The Web After Tomorrow - A blog post by Nikita Prokopov](http://tonsky.me/blog/the-web-after-tomorrow/)
 - [Rethinking caching in web apps - A blog post by Martin Kleppmann](https://martin.kleppmann.com/2012/10/01/rethinking-caching-in-web-apps.html)
 - [10 things I learned making the fastest site in the world - A blog post by David Gilbertson](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.e60ck5rom)
+- [How NOT to Measure Latency - by Gil Tene](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
